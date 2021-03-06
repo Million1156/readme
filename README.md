@@ -13,7 +13,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/Million1156)
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/avatars/721095628314247248/a_0744c936cecc191bd710ea3c4ca3738e.gif?size=256" />
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oFzmnMZAOzN5XLh5K" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cbs-swat-shemar-moore-3oFzmnMZAOzN5XLh5K">via GIPHY</a></p>
 
 ### Some Highlights:
 
@@ -27,7 +27,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Lua/LuaU](https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg)&nbsp;
+![Lua/LuaU](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/300px-Lua-Logo.svg.png)&nbsp;
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="left">
