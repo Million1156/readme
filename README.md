@@ -44,7 +44,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 - OS: Windows 10 && Ubuntu 20.04 (LTS)
 - Laptop: Dell (Linux/Windows 7)
 - Gaming PC: Ryzen 7 3800X/GeForce RTX 2070 Super
-- Browser: Edge and Chromiumn (Canary)
+- Browser: Edge and Chromium (Canary)
 - Code Editor: VSCode - Notepad++ 
 - Stay Updated: [Email](wchexroblox@gmail.com)
 
