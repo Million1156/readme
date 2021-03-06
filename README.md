@@ -12,8 +12,8 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/Million1156)
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/avatars/721095628314247248/a_0744c936cecc191bd710ea3c4ca3738e.gif?size=256" />
-<iframe src="https://giphy.com/embed/3oFzmnMZAOzN5XLh5K" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cbs-swat-shemar-moore-3oFzmnMZAOzN5XLh5K">via GIPHY</a></p>
+<img align="right" height="215" width="325" alt="" src="https://giphy.com/embed/3oFzmnMZAOzN5XLh5K" />
+
 
 ### Some Highlights:
 
