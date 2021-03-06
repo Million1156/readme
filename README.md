@@ -41,10 +41,10 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 && ubuntu 20.04
-- Laptop: HP (Linux)
-- Gaming PC: Normal specs
-- Browser: Chrome and Opera
+- OS: Windows 10 && Ubuntu 20.04 (LTS)
+- Laptop: Dell (Linux/Windows 7)
+- Gaming PC: Ryzen 7 3800X/GeForce RTX 2070 Super
+- Browser: Edge and Chromiumn (Canary)
 - Code Editor: VSCode - Notepad++ 
 - Stay Updated: [Email](wchexroblox@gmail.com)
 
