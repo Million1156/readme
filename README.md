@@ -32,7 +32,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 <p align="left">
 <a href="https://github.com/Million1156">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=million1156&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=million1156&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=million1156&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
