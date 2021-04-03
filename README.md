@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue software engineer when I'm older. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls and make discords bots. I'm currently into Bot Development 🕸️ and working on my journey on becoming a software engineer. If I had to choose,JavaScript or PHP ftw!
+I'm a college student @ Stanford planning to pursue software engineer when I'm older. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls and make discords bots. I'm currently into Bot Development 🕸️ and working on my journey on becoming a software engineer. If I had to choose,JavaScript or PHP ftw!
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/Million1156)
