@@ -1,7 +1,3 @@
-
-@@ -7,7 +7,7 @@
-
-
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 
 
